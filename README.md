@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Flutter <br>🌱 I’m currently learning Docker 🐳<br>💬 Ask me about Mobile App Development and Backend Development<br>⚡ Fun fact A Good Debugger
+🔭 I’m currently working on Flutter <br>🌱 I’m currently learning Bloc<br>💬 Ask me about Mobile App Development and Backend Development<br>⚡ Fun fact A Good Debugger
 
 
 ## 🌐 Socials:
